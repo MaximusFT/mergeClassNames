@@ -6,7 +6,7 @@ Removes duplicates
 ## Install
 ```bash
 # Install using npm
-npm install mergeclassnames --save
+npm install @maximusft/mergeclassnames@1.0.0 --save
 ```
 
 ## Use

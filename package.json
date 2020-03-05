@@ -1,6 +1,6 @@
 {
-  "name": "mergeclassnames",
-  "version": "1.0.0",
+  "name": "@maximusft/mergeclassnames",
+  "version": "1.0.1",
   "description": "Merges class names, whatever the format. Can be a single class, a string with multiple classes separated with space, an array of classes",
   "main": "/dist/mergeClassNames.js",
   "scripts": {
@@ -30,6 +30,9 @@
     "array"
   ],
   "author": "MaximusFT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MaximusFT/mergeClassNames/issues"
