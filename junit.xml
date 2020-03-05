@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" time="8.327">
+  <testsuite name="mergeClassNames" errors="0" failures="0" skipped="0" timestamp="2020-03-05T13:35:15" time="3.994" tests="6">
+    <testcase classname="mergeClassNames given nothing" name="mergeClassNames given nothing" time="0.003">
+    </testcase>
+    <testcase classname="mergeClassNames given an array of strings with single class names" name="mergeClassNames given an array of strings with single class names" time="0">
+    </testcase>
+    <testcase classname="mergeClassNames given an array of strings with multiple class names" name="mergeClassNames given an array of strings with multiple class names" time="0.001">
+    </testcase>
+    <testcase classname="mergeClassNames given an array of arrays of strings with single and cross class names" name="mergeClassNames given an array of arrays of strings with single and cross class names" time="0">
+    </testcase>
+    <testcase classname="mergeClassNames given an array of arrays of strings with multiple and cross class names" name="mergeClassNames given an array of arrays of strings with multiple and cross class names" time="0">
+    </testcase>
+    <testcase classname="mergeClassNames mixed... include null, undefined or other non-string arguments in the result" name="mergeClassNames mixed... include null, undefined or other non-string arguments in the result" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
